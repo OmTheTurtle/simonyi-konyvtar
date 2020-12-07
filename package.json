@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^1.0.0",
-    "@emotion/react": "^11.0.0",
+    "@emotion/react": "^11.1.2",
     "@emotion/styled": "^11.0.0",
     "@hapi/iron": "^6.0.0",
     "@prisma/client": "^2.12.0",
