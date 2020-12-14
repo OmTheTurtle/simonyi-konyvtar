@@ -2179,10 +2179,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-timeago@^4.1.1":
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/@types/react-timeago/-/react-timeago-4.1.1.tgz#14c24cb8c1299379d9c2941ca3373f849d8bc78a"
-  integrity sha512-Rokr09qNqkKXpKwrDVYzGz/mGlmgX5ZdxAJToUehMyRHXEwtXUUNaAZur5RoZ5JtukBwXKzDevS72Axtjm+yKg==
+"@types/react-timeago@^4.1.2":
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/@types/react-timeago/-/react-timeago-4.1.2.tgz#fc365ac4483888e9b47267259416be2fd5cf765f"
+  integrity sha512-gkhU3rH7aZgeRybbm9ie9wHOM9i1I5YhUoto/uqY/DAbeRZuLU8ugl6E97jp65XCl9QTij32Vs7BAX2E/MqOAw==
   dependencies:
     "@types/react" "*"
 
